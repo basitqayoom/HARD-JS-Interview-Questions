@@ -2,4 +2,5 @@
 
 ## Topics
 
-- [Task Scheduler in JavaScript](2%20-%20Task%20Scheduler%20in%20JavaScript/index.js)
+- [Task Scheduler in JavaScript](2-task-scheduler.js)
+- [Event Emitter in JavaScript](3-event-emitter.js)
